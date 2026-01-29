@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="assets/simple_counter.gif" alt="App Demo" width="300" />
+<img src="assets/simple_Counter.gif" alt="App Demo" width="300" />
 
 <br>
 
