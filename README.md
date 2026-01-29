@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![App Demo](path/to/your/app-demo.gif)
+![App Demo](assets/simple_Counter.gif)
 
 *Beautiful gradient UI with animated emoji reactions*
 
